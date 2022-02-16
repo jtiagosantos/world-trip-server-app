@@ -1,0 +1,318 @@
+{
+  "continents": [
+    {
+      "id": 1,
+      "title": "Europa",
+      "subtitle": "O continente mais antigo.",
+      "image_url": "https://images.unsplash.com/photo-1600454021970-351eff4a6554",
+      "slug": "europa"
+    },
+    {
+      "id": 2,
+      "title": "Oceania",
+      "subtitle": "O menor continente do planeta.",
+      "image_url": "https://images.unsplash.com/photo-1589330273594-fade1ee91647",
+      "slug": "oceania"
+    },
+    {
+      "id": 3,
+      "title": "África",
+      "subtitle": "O terceiro maior continente do mundo.",
+      "image_url": "https://images.unsplash.com/photo-1431727499043-70167d3d8c90",
+      "slug": "áfrica"
+    },
+    {
+      "id": 4,
+      "title": "Ásia",
+      "subtitle": "O maior continente em área terrestre do mundo.",
+      "image_url": "https://images.unsplash.com/photo-1480796927426-f609979314bd",
+      "slug": "ásia"
+    },
+    {
+      "id": 5,
+      "title": "América do Sul",
+      "subtitle": "O continente apresenta uma grande biodiversidade.",
+      "image_url": "https://images.unsplash.com/photo-1591533985302-42123fa9240b",
+      "slug": "américa-do-sul"
+    },
+    {
+      "id": 6,
+      "title": "América do Norte",
+      "subtitle": "O continente é composto por apenas três países.",
+      "image_url": "https://images.unsplash.com/photo-1580755704223-cb95b31e444c",
+      "slug": "américa-do-norte"
+    }
+  ],
+  "continents_details": [
+    {
+      "continent_name": "Europa",
+      "continent_image_url": "https://images.unsplash.com/photo-1600454021970-351eff4a6554",
+      "bio": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countries_number": 50,
+      "languages_number": 60,
+      "cities_number": 27,
+      "major_cities": [
+        {
+          "id": 1,
+          "city_image_url": "https://images.unsplash.com/photo-1431274172761-fca41d930114",
+          "city_name": "Londres",
+          "country": "Reino Unido",
+          "flag_image_url": "https://flagpedia.net/data/flags/h80/gb.png"
+        },
+        {
+          "id": 2,
+          "city_image_url": "https://images.unsplash.com/photo-1431274172761-fca41d930114",
+          "city_name": "Paris",
+          "country": "França",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/fr.png"
+        },
+        {
+          "id": 3,
+          "city_image_url": "https://images.unsplash.com/photo-1588614959060-4d144f28b207",
+          "city_name": "Roma",
+          "country": "Itália",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/it.png"
+        },
+        {
+          "id": 4,
+          "city_image_url": "https://images.unsplash.com/photo-1592906209472-a36b1f3782ef",
+          "city_name": "Praga",
+          "country": "República Tcheca",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/cz.png"
+        },
+        {
+          "id": 5,
+          "city_image_url": "https://images.unsplash.com/photo-1562170024-fc6d5fadecdd",
+          "city_name": "Amsterdã",
+          "country": "Holanda",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/nl.png"
+        }
+      ]
+    },
+    {
+      "continent_name": "Oceania",
+      "continent_image_url": "https://images.unsplash.com/photo-1589330273594-fade1ee91647",
+      "bio": "A Oceania é um continente situado entre os oceanos Índico e Pacífico, a sudeste da Ásia. A maior parte de suas terras fica no Hemisfério Sul do planeta. É composto por 14 países e ilhas e territórios pertencentes a outros países, tanto oceânicos quanto de outros continentes.",
+      "countries_number": 14,
+      "languages_number": 31,
+      "cities_number": 10,
+      "major_cities": [
+        {
+          "id": 1,
+          "city_image_url": "https://images.unsplash.com/photo-1523428096881-5bd79d043006",
+          "city_name": "Sydney",
+          "country": "Austrália",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/au.png"
+        },
+        {
+          "id": 2,
+          "city_image_url": "https://images.unsplash.com/photo-1595434971780-79d5c20c5090",
+          "city_name": "Melbourne",
+          "country": "Austrália",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/au.png"
+        },
+        {
+          "id": 3,
+          "city_image_url": "https://images.unsplash.com/photo-1566734904496-9309bb1798ae",
+          "city_name": "Brisbane",
+          "country": "Austrália",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/au.png"
+        },
+        {
+          "id": 4,
+          "city_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Makassar_CBD_Skyline.jpg/300px-Makassar_CBD_Skyline.jpg",
+          "city_name": "Macáçar",
+          "country": "Indonésia",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/id.png"
+        },
+        {
+          "id": 5,
+          "city_image_url": "https://images.unsplash.com/photo-1580014942344-ce423d2b885a",
+          "city_name": "Perth",
+          "country": "Austrália",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/au.png"
+        }
+      ]
+    },
+    {
+      "continent_name": "África",
+      "continent_image_url": "https://images.unsplash.com/photo-1431727499043-70167d3d8c90",
+      "bio": "A África é o terceiro continente mais extenso com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra (atrás da Ásia) com cerca de um bilhão de pessoas, representando cerca de um sétimo da população mundial, e 54 países independentes.",
+      "countries_number": 54,
+      "languages_number": 67,
+      "cities_number": 13,
+      "major_cities": [
+        {
+          "id": 1,
+          "city_image_url": "https://images.unsplash.com/photo-1618828665011-0abd973f7bb8",
+          "city_name": "Lagos",
+          "country": "Nigéria",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/ng.png"
+        },
+        {
+          "id": 2,
+          "city_image_url": "https://images.unsplash.com/photo-1572252009286-268acec5ca0a",
+          "city_name": "Cairo",
+          "country": "Egito",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/eg.png"
+        },
+        {
+          "id": 3,
+          "city_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Vue_Kinshasa.jpg",
+          "city_name": "Quinxassa",
+          "country": "Congo",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/cd.png"
+        },
+        {
+          "id": 4,
+          "city_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Nairobi_night_skyline_at_dusk_.jpg/800px-Nairobi_night_skyline_at_dusk_.jpg",
+          "city_name": "Nairóbi",
+          "country": "Quênia",
+          "flag_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/800px-Flag_of_Kenya.svg.png"
+        },
+        {
+          "id": 5,
+          "city_image_url": "https://images.unsplash.com/photo-1594808816834-f716b56c4fc6",
+          "city_name": "Alexandria",
+          "country": "Egito",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/eg.png"
+        }
+      ]
+    },
+    {
+      "continent_name": "Ásia",
+      "continent_image_url": "https://images.unsplash.com/photo-1480796927426-f609979314bd",
+      "bio": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial. A Ásia faz fronteira no lado ocidental com a África e com a Europa, e no lado oriental com o oceano Pacífico, a Oceania e, em menor proporção, com a América do Norte, pelo Estreito de Bering.",
+      "countries_number": 42,
+      "languages_number": 100,
+      "cities_number": 20,
+      "major_cities": [
+        {
+          "id": 1,
+          "city_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Shanghaiviewpic1.jpg/800px-Shanghaiviewpic1.jpg",
+          "city_name": "Xangai",
+          "country": "Chinês",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/cn.png"
+        },
+        {
+          "id": 2,
+          "city_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mumbai_Skyline_at_Night.jpg/800px-Mumbai_Skyline_at_Night.jpg",
+          "city_name": "Mumbai",
+          "country": "Índia",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/in.png"
+        },
+        {
+          "id": 3,
+          "city_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/PK_Karachi_asv2020-02_img74_KMC_Building.jpg/800px-PK_Karachi_asv2020-02_img74_KMC_Building.jpg",
+          "city_name": "Carachi",
+          "country": "Paquistão",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/pk.png"
+        },
+        {
+          "id": 4,
+          "city_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Jama_Masjid.jpg/800px-Jama_Masjid.jpg",
+          "city_name": "Delhi",
+          "country": "Índia",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/in.png"
+        },
+        {
+          "id": 5,
+          "city_image_url": "https://images.unsplash.com/photo-1624915585644-99e936e90cbb",
+          "city_name": "Istambul",
+          "country": "Turquia",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/tr.png"
+        }
+      ]
+    },
+    {
+      "continent_name": "América do Sul",
+      "continent_image_url": "https://images.unsplash.com/photo-1591533985302-42123fa9240b",
+      "bio": "A América do Sul é um dos subcontinentes que formam a América. Ela é composta por 12 países que foram colonizados, proritariamente, por portugueses e espanhóis. A população sul-americana é compostada por descendentes de povos indígenas, europeus e africanos, que contribuíram diretamente para a formação das sociedades locais. Atualmente, é uma das regiões mais diversas de todo o globo em termos físicos e humanos.",
+      "countries_number": 24,
+      "languages_number": 8,
+      "cities_number": 33,
+      "major_cities": [
+        {
+          "id": 1,
+          "city_image_url": "https://images.unsplash.com/photo-1583788758158-7a28a8c989ae",
+          "city_name": "São Paulo",
+          "country": "Brasil",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/br.png"
+        },
+        {
+          "id": 2,
+          "city_image_url": "https://images.unsplash.com/photo-1580530719837-952e0515b69a",
+          "city_name": "Lima",
+          "country": "Peru",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/pe.png"
+        },
+        {
+          "id": 3,
+          "city_image_url": "https://images.unsplash.com/photo-1635079645011-eab879c84f59",
+          "city_name": "Bogotá",
+          "country": "Colômbia",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/co.png"
+        },
+        {
+          "id": 4,
+          "city_image_url": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325",
+          "city_name": "Rio de Janeiro",
+          "country": "Brasil",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/br.png"
+        },
+        {
+          "id": 5,
+          "city_image_url": "https://images.unsplash.com/photo-1593985437133-03d5e1435c03",
+          "city_name": "Santiago",
+          "country": "Chile",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/cl.png"
+        }
+      ]
+    },
+    {
+      "continent_name": "América do Norte",
+      "continent_image_url": "https://images.unsplash.com/photo-1580755704223-cb95b31e444c",
+      "bio": "A América do Norte está localizada no extremo norte das Américas e é composta por apenas três países: Estados Unidos, Canadá e México, além de territórios de domínios europeus, como a Groelândia e Bermudas",
+      "countries_number": 3,
+      "languages_number": 30,
+      "cities_number": 50,
+      "major_cities": [
+        {
+          "id": 1,
+          "city_image_url": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a",
+          "city_name": "Mexico City",
+          "country": "México",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/mx.png"
+        },
+        {
+          "id": 2,
+          "city_image_url": "https://images.unsplash.com/photo-1483653364400-eedcfb9f1f88",
+          "city_name": "New York",
+          "country": "Estados Unidos",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/us.png"
+        },
+        {
+          "id": 3,
+          "city_image_url": "https://images.unsplash.com/photo-1526417501781-5e7e587b7686",
+          "city_name": "Toronto",
+          "country": "Canadá",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/ca.png"
+        },
+        {
+          "id": 4,
+          "city_image_url": "https://images.unsplash.com/photo-1429554429301-1c7d5ae2d42e",
+          "city_name": "Los Angeles",
+          "country": "Estados Unidos",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/us.png"
+        },
+        {
+          "id": 5,
+          "city_image_url": "https://images.unsplash.com/photo-1559682468-a6a29e7d9517",
+          "city_name": "Montreal",
+          "country": "Canadá",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/ca.png"
+        }
+      ]
+    }
+  ]
+}
