@@ -30,17 +30,10 @@
     },
     {
       "id": 5,
-      "title": "América do Sul",
+      "title": "América",
       "subtitle": "O continente apresenta uma grande biodiversidade.",
-      "image_url": "https://images.unsplash.com/photo-1591533985302-42123fa9240b",
-      "slug": "américa-do-sul"
-    },
-    {
-      "id": 6,
-      "title": "América do Norte",
-      "subtitle": "O continente é composto por apenas três países.",
       "image_url": "https://images.unsplash.com/photo-1580755704223-cb95b31e444c",
-      "slug": "américa-do-norte"
+      "slug": "américa"
     }
   ],
   "continents_details": [
@@ -225,12 +218,12 @@
       ]
     },
     {
-      "continent_name": "América do Sul",
-      "continent_image_url": "https://images.unsplash.com/photo-1591533985302-42123fa9240b",
-      "bio": "A América do Sul é um dos subcontinentes que formam a América. Ela é composta por 12 países que foram colonizados, proritariamente, por portugueses e espanhóis. A população sul-americana é compostada por descendentes de povos indígenas, europeus e africanos, que contribuíram diretamente para a formação das sociedades locais. Atualmente, é uma das regiões mais diversas de todo o globo em termos físicos e humanos.",
-      "countries_number": 24,
-      "languages_number": 8,
-      "cities_number": 33,
+      "continent_name": "América",
+      "continent_image_url": "https://images.unsplash.com/photo-1580755704223-cb95b31e444c",
+      "bio": "A América é o continente localizado no hemisfério ocidental e que se estende, no sentido norte-sul, desde o oceano Ártico até o cabo Horn, ao longo de cerca de 15 mil quilômetros. O seu extremo oriental insular (não continental) encontra-se na Groenlândia, o Nordostrundingen, enquanto o ocidental localiza-se nas Aleutas. Já os extremos continentais (não insulares) são o cabo Príncipe de Gales, o extremo ocidental, no Alasca, e a ponta do Seixas, extremo oriental, no estado brasileiro da Paraíba.",
+      "countries_number": 27,
+      "languages_number": 35,
+      "cities_number": 80,
       "major_cities": [
         {
           "id": 1,
@@ -248,69 +241,24 @@
         },
         {
           "id": 3,
-          "city_image_url": "https://images.unsplash.com/photo-1635079645011-eab879c84f59",
-          "city_name": "Bogotá",
-          "country": "Colômbia",
-          "flag_image_url": "https://flagpedia.net/data/flags/w580/co.png"
-        },
-        {
-          "id": 4,
-          "city_image_url": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325",
-          "city_name": "Rio de Janeiro",
-          "country": "Brasil",
-          "flag_image_url": "https://flagpedia.net/data/flags/w580/br.png"
-        },
-        {
-          "id": 5,
-          "city_image_url": "https://images.unsplash.com/photo-1593985437133-03d5e1435c03",
-          "city_name": "Santiago",
-          "country": "Chile",
-          "flag_image_url": "https://flagpedia.net/data/flags/w580/cl.png"
-        }
-      ]
-    },
-    {
-      "continent_name": "América do Norte",
-      "continent_image_url": "https://images.unsplash.com/photo-1580755704223-cb95b31e444c",
-      "bio": "A América do Norte está localizada no extremo norte das Américas e é composta por apenas três países: Estados Unidos, Canadá e México, além de territórios de domínios europeus, como a Groelândia e Bermudas",
-      "countries_number": 3,
-      "languages_number": 30,
-      "cities_number": 50,
-      "major_cities": [
-        {
-          "id": 1,
-          "city_image_url": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a",
-          "city_name": "Mexico City",
-          "country": "México",
-          "flag_image_url": "https://flagpedia.net/data/flags/w580/mx.png"
-        },
-        {
-          "id": 2,
           "city_image_url": "https://images.unsplash.com/photo-1483653364400-eedcfb9f1f88",
           "city_name": "New York",
           "country": "Estados Unidos",
           "flag_image_url": "https://flagpedia.net/data/flags/w580/us.png"
         },
         {
-          "id": 3,
-          "city_image_url": "https://images.unsplash.com/photo-1526417501781-5e7e587b7686",
-          "city_name": "Toronto",
-          "country": "Canadá",
-          "flag_image_url": "https://flagpedia.net/data/flags/w580/ca.png"
-        },
-        {
           "id": 4,
-          "city_image_url": "https://images.unsplash.com/photo-1429554429301-1c7d5ae2d42e",
-          "city_name": "Los Angeles",
-          "country": "Estados Unidos",
-          "flag_image_url": "https://flagpedia.net/data/flags/w580/us.png"
+          "city_image_url": "https://images.unsplash.com/photo-1518105779142-d975f22f1b0a",
+          "city_name": "Mexico City",
+          "country": "México",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/mx.png"
         },
         {
           "id": 5,
-          "city_image_url": "https://images.unsplash.com/photo-1559682468-a6a29e7d9517",
-          "city_name": "Montreal",
-          "country": "Canadá",
-          "flag_image_url": "https://flagpedia.net/data/flags/w580/ca.png"
+          "city_image_url": "https://images.unsplash.com/photo-1635079645011-eab879c84f59",
+          "city_name": "Bogotá",
+          "country": "Colômbia",
+          "flag_image_url": "https://flagpedia.net/data/flags/w580/co.png"
         }
       ]
     }
