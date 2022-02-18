@@ -144,7 +144,7 @@
     
     Site para gerar dados fictícos:
     
-    -> [https://www.mockaroo.com/](https://www.mockaroo.com/)
+    → [https://www.mockaroo.com/](https://www.mockaroo.com/)
     
 - **Implementação do deploy**
     1. Subir pro Github
